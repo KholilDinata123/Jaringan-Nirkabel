@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## KEAMANAN JARINGAN NIRKABEL
 
-You can use the [editor on GitHub](https://github.com/KholilDinata123/Jaringan-Nirkabel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Sistem keamanan jaringan komputer adalah suatu sistem untuk mencegah dan mengidentifikasi penggunaan yang tidak sah dari jaringan komputer. Langkah-langkah pencegahan membantu menghentikan pengguna yang tidak sah yang disebut “penyusup” untuk mengakses setiap bagian dari sistem jaringan komputer . Tujuan /Keamanan jaringan komputer/ adalah untuk mengantisipasi resiko jaringan komputer berupa bentuk ancaman fisik maupun logik baik langsung ataupun tidak langsung mengganggu aktivitas yang sedang berlangsung dalam jaringan komputer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## * Manfaat Jaringan Nirkabel
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+a.Pengguna dapat saling berbagi file dan sumber daya lainnya dengan oerangkat lain yang terhubung ke jaringan tanpa harus bersuah payah melepas port.
+b.Pengguna dapat bergerak bebas dalam menggunakan Laptop maupun perangkat genggap lainnya, karena mempunyai jangkauan are lebih luas tanpa kabel.
+c.Lebih nyaman digunakan
+d.Jaringan nirkabel seringkali dapat menangani pengguna dalam jumlah yang lebih banyak karena tidak dibatasi oleh sejumlah port koneksi tertentu.
+e.Pengalihan informasi secara instan ke media sosial menjadi lebih mudah. Misalnya, mengambil foto dan mengunggahnya ke Facebook pada umumnya bisa dilakukan lebih cepat dengan   teknologi nirkabel. 
 
-```markdown
-Syntax highlighted code block
+## * Kekurangan Jaringan Nirkabel
 
-# Header 1
-## Header 2
-### Header 3
+a.Kecepatan transfer file atau sharing biasanya akan lebih lambar dibandingkan dengan jaringan berkabel.
+b.Instalasi dan pengembanganya yang cukup mahal.
+c.Peralatan yang masih tinggi harganya.
+d.Kekuatan sinyal sangat tergantung kepada faktor cuaca.
+e.Informasi yang kurang aman dan lebih mudah di hack.
 
-- Bulleted
-- List
+## * Tujuan Dari Sistem Keamanan Jaringan Nirkabel
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KholilDinata123/Jaringan-Nirkabel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+a.Dapat melindungi keamanan pada sistem informasi mengenai akses, pengungkapan, penggunaan, modifikasi, gangguan maupun penghancuran.
+b.Dapat digunakan untuk mengamankan jaringan supaya terhindarkan dari yang namanya gangguan tanpa harus menghalangi para penggunanya.
+c.Untuk melakukan antisipasi pada saat jaringan telah berhasil ditembus oleh pihak luar.
+d.Memberikan sumber informasi sesuai yang dibutuhkan oleh para penggunanya apabila komputer berada dalam kondisi yang tidak aman, maka untuk tingkat availability nya dapat     dipertanyakan sehingga komputer bisa di shutdown apabila bisa dieksploitasi oleh pihak attacker.
+e.Mampu menjaga rahasia yang terdapat pada komputer sehingga seluruh informasi rahasia tersebut tidak bisa jatuh pada tangan attacker. Sementara untuk berbagai cara dapat       dilakukan misalnya seperti penggunaan security mode, pembatasan akses dan cryptography.
+f.Untuk memberikan informasi secara konsisten, sama dan juga utuh. Untuk data integrity dapat digunakan agar tidak terjadi penyisipan-penyisipan untuk informasi dari beberapa   pihak attacker yang ada pada komputer.
+g.Untuk mengawasi informasi yang terdapat pada komputer sehingga penggunaannya bisa melakukan pengontrolan supaya bisa memonitoring dari seluruh aktivitas yang terdapat pada   komputer.
