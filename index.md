@@ -2,6 +2,10 @@
 
 Sistem keamanan jaringan komputer adalah suatu sistem untuk mencegah dan mengidentifikasi penggunaan yang tidak sah dari jaringan komputer. Langkah-langkah pencegahan membantu menghentikan pengguna yang tidak sah yang disebut “penyusup” untuk mengakses setiap bagian dari sistem jaringan komputer . Tujuan /Keamanan jaringan komputer/ adalah untuk mengantisipasi resiko jaringan komputer berupa bentuk ancaman fisik maupun logik baik langsung ataupun tidak langsung mengganggu aktivitas yang sedang berlangsung dalam jaringan komputer.
 
+## Pengertian Jaringan Nirkabel
+
+Jaringan nirkabel (Inggris: wireless network) adalah bidang disiplin yang berkaitan dengan komunikasi antar sistem komputer tanpa menggunakan kabel.Jaringan nirkabel ini sering dipakai untuk jaringan komputer baik pada jarak yang dekat (beberapa meter,memakai alat/pemancar bluetooth) maupun pada jarak jauh (lewat satelit).Bidang ini erat hubungannya dengan bidang telekomunikasi, teknologi informasi, dan teknik komputer. Jenis jaringan yang populer dalam kategori jaringan nirkabel ini meliputi : Jaringan kawasan lokal nirkabel (wireless LAN/WLAN),dan Wi-Fi.Jaringan nirkabel biasanya menghubungkan satu sistem komputer dengan sistem yang lain dengan menggunakan beberapa macam media transmisi tanpa kabel, seperti: gelombang radio,gelombang mikro,maupun cahaya infra merah.
+
 ![Image](download.jpg)
 
 ## * Manfaat Jaringan Nirkabel
