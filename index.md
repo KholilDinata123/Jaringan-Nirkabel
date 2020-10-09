@@ -2,6 +2,7 @@
 
 Sistem keamanan jaringan komputer adalah suatu sistem untuk mencegah dan mengidentifikasi penggunaan yang tidak sah dari jaringan komputer. Langkah-langkah pencegahan membantu menghentikan pengguna yang tidak sah yang disebut “penyusup” untuk mengakses setiap bagian dari sistem jaringan komputer . Tujuan /Keamanan jaringan komputer/ adalah untuk mengantisipasi resiko jaringan komputer berupa bentuk ancaman fisik maupun logik baik langsung ataupun tidak langsung mengganggu aktivitas yang sedang berlangsung dalam jaringan komputer.
 
+![Image](download.jpg)
 
 ## * Manfaat Jaringan Nirkabel
 
